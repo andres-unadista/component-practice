@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  display: block;
+  margin: auto;
+  margin-bottom: 1em;
+}
+
+#mouse-box {
+  padding: 1em;
+  background-color: gainsboro;
+  color: black;
+}
